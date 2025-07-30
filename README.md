@@ -1,1 +1,1 @@
-# Bootstrap_Landingpage
+# Bootstrap_Landingpage basic functions of bootstrap 
